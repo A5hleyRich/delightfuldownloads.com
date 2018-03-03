@@ -27,3 +27,5 @@ Existing lists can be removed by simply unsetting them. The following snippet wi
 {% gist ccbb933c1a62332b0f9c remove.php %}
 
 All of the above code snippets should be added to your theme's <code>function.php</code> file.
+
+<a href="{{ site.github.url }}">&lt; Back</a>

@@ -28,3 +28,5 @@
 {% gist 87d446a3ea9f577fc9ce remove.php %}
 
 <p>All of the above code snippets should be added to your theme's <code>function.php</code> file.</p>
+
+<a href="{{ site.github.url }}">&lt; Back</a>
