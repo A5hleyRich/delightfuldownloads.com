@@ -2,9 +2,9 @@
 
 <p>You can customize the default buttons that are registered by Delightful Downloads using the <code>dedo_get_buttons</code> filter. This will allow you to add or remove button styles that are used by the <code>&#91;ddownload&#93;</code> shortcode and will also affect which buttons are shown by the shortcode generator. In addition, any custom buttons can be selected as the default button style in the <em>Settings</em> screen under the <em>Shortcodes</em> tab.</p>
 
-![Custom Lists Settings Screen]({{ "/images/custom-buttons-shortcodes.jpg" | absolute_url }})
+![]({{ "/images/custom-buttons-shortcodes.jpg" | absolute_url }})
 
-![Custom Lists Settings Screen]({{ "/images/custom-buttons-settings.jpg" | absolute_url }})
+![]({{ "/images/custom-buttons-settings.jpg" | absolute_url }})
 
 <p>The following buttons are registered by default:</p>
 
