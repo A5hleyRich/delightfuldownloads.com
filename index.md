@@ -7,6 +7,7 @@ layout: default
 ### Customization
 
 * [Custom Lists](documentation/custom-lists)
+* [Custom Buttons]()
 
 ### Developer
 
