@@ -6,8 +6,8 @@ layout: default
 
 ### Customization
 
-* [Custom Lists](/documentation/custom-lists)
-* [Custom Buttons](/documentation/custom-buttons)
+* [Custom Lists]({{ "/documentation/custom-lists" | absolute_url }})
+* [Custom Buttons]({{ "/documentation/custom-buttons" | absolute_url }})
 
 ### Developer
 
