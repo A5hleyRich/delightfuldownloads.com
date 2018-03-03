@@ -6,7 +6,7 @@ layout: default
 
 ### Customization
 
-* [Custom Lists](/documentation/custom-lists)
+* [Custom Lists](documentation/custom-lists)
 
 ### Developer
 
