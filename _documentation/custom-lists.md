@@ -4,7 +4,7 @@ You can customise the default list styles that are registered by Delightful Down
 
 The following list styles are registered by default:
 
-[gist id="ccbb933c1a62332b0f9c" file="defaults.php"]
+{% gist ccbb933c1a62332b0f9c %}
 
 You will notice that various wildcards are used to enter dynamic content such as <code>%url%</code>, <code>%title%</code> and <code>%date%</code>. A full list of the available wildcards can be found <a title="Wildcards" href="https://delightfuldownloads.com/documentation/wildcards/">here</a>.
 <h2>Add Lists</h2>
